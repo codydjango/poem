@@ -29,8 +29,8 @@ def line_generate():
   list_of_phrases = all_phrases.splitlines()
   # select one line from the list at random
   phrase = random.choice(list_of_phrases)
-  return phrase
   target.close()
+  return phrase
 
 
 # call the line generator
