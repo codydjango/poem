@@ -1,0 +1,18 @@
+https://pypi.python.org/pypi/pronouncing
+https://github.com/codydjango/poem
+https://vimeo.com/63178432
+http://gawker.com/5905550/weird-internets-the-amazing-found-on-twitter-sonnets-of-pentametron
+https://www.garysieling.com/blog/rhyming-with-nlp-and-shakespeare
+
+
+
+class Animal:
+  def __init__(self, name)
+    self.name = name
+
+  def get_name(self):
+    return self.name
+
+
+cat = Animal('captain') # create the cat object from the animal class
+cat.get_name() # 'captain'
